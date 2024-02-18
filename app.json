@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "uber-eats-clone",
+    "slug": "uber-eats-clone",
+    "version": "1.0.0",
+    "sdkVersion": "49.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.anonymous.ubereatsclone"
+    }
+  },
+  "name":"uber eats",
+  "displayName":"uber eats"
+}
